@@ -1,2 +1,2 @@
 # av_course
-This is fot the uni.
+This is for the uni.
